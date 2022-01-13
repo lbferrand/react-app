@@ -19,7 +19,7 @@ function App() {
           Learn React by building an application
         </a>
       </header>
-      <Weather />
+      <Weather city="Paris" />
     </div>
   );
 }
