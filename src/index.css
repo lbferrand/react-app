@@ -16,6 +16,10 @@ h1 {
   font-family: fantasy;
   text-align: center;
 }
+h4 {
+  font-family: fantasy;
+  color: rgb(135, 119, 150);
+}
 input {
   font-family: cursive;
   font-size: 18px;
