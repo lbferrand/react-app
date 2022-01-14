@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Weather from "./Weather";
 
@@ -8,7 +7,8 @@ function App() {
       <header className="App-header">
         Learn React by building an application
       </header>
-      <Weather city="Paris" />
+      <h1>Weather Application</h1>
+      <Weather />
     </div>
   );
 }
